@@ -1,0 +1,508 @@
+﻿  2KEYFRAM.CPP
+  AADATA.CPP
+  ABSTRACT.CPP
+  ADATA.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file 2KEYFRAM.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file AADATA.CPP)
+  ADPCM.CPP
+  AIRCRAFT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ABSTRACT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ADATA.CPP)
+  ANIM.CPP
+  AUDIO.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file AIRCRAFT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ADPCM.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ANIM.CPP)
+  B64PIPE.CPP
+  B64STRAW.CPP
+  BAR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file AUDIO.CPP)
+  BASE.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file B64STRAW.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BAR.CPP)
+  BASE64.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BASE.CPP)
+  BBDATA.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file B64PIPE.CPP)
+  BDATA.CPP
+  BFIOFILE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BBDATA.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\base64.cpp(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BDATA.CPP)
+  BLOWFISH.CPP
+  BLOWPIPE.CPP
+  BLWSTRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\rawfile.h(43): fatal error C1083: Cannot open include file: 'errno.h': No such file or directory (compiling source file BFIOFILE.CPP)
+  BUFF.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file BLOWPIPE.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\blowfish.cpp(43): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file BLWSTRAW.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\buff.cpp(43): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+  BUILDING.CPP
+  BULLET.CPP
+  CARGO.CPP
+  CARRY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CARGO.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BUILDING.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file BULLET.CPP)
+  CCDDE.CPP
+  CCFILE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CARRY.CPP)
+  CCINI.CPP
+  CCMPATH.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCDDE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCMPATH.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCFILE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCINI.CPP)
+  CCPTR.CPP
+  CCTEN.CPP
+  CDATA.CPP
+  CDFILE.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\cdfile.h(38): fatal error C1083: Cannot open include file: 'dos.h': No such file or directory (compiling source file CDFILE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCTEN.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CCPTR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CDATA.CPP)
+  CELL.CPP
+  CHECKBOX.CPP
+  CHEKLIST.CPP
+  COLRLIST.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CELL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CHEKLIST.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file COLRLIST.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CHECKBOX.CPP)
+  COMBAT.CPP
+  COMBUF.CPP
+  COMINIT.CPP
+  CONFDLG.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file COMBAT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CONFDLG.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file COMINIT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file COMBUF.CPP)
+  CONNECT.CPP
+  CONQUER.CPP
+  CONST.CPP
+  CONTROL.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CONQUER.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CONNECT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CONTROL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CONST.CPP)
+  COORD.CPP
+  CRATE.CPP
+  CRC.CPP
+  CRCPIPE.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file CRCPIPE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file COORD.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\crc.h(39): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file CRC.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CRATE.CPP)
+  CRCSTRAW.CPP
+  CREDITS.CPP
+  CREW.CPP
+  CSTRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file CRCSTRAW.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file CSTRAW.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CREDITS.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file CREW.CPP)
+  DDE.CPP
+  DEBUG.CPP
+  DESCDLG.CPP
+  DIAL8.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DEBUG.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DDE.CPP)
+  DIALOG.CPP
+  DISPLAY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DIAL8.CPP)
+  DLLInterface.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DESCDLG.CPP)
+  DLLInterfaceEditor.cpp
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\dllinterfaceeditor.cpp(17): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DIALOG.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DISPLAY.CPP)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory (compiling source file DLLInterface.cpp)
+  DOOR.CPP
+  DRIVE.CPP
+  DROP.CPP
+  EDIT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DROP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DOOR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file DRIVE.CPP)
+  ENDING.CPP
+  EVENT.CPP
+  EXPAND.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file EDIT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file EVENT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file EXPAND.CPP)
+  FACE.CPP
+  FACING.CPP
+  FACTORY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ENDING.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FACE.CPP)
+  FIELD.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FACTORY.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FACING.CPP)
+  FINDPATH.CPP
+  FIXED.CPP
+  FLASHER.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\field.cpp(32): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FINDPATH.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\fixed.cpp(39): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FLASHER.CPP)
+  FLY.CPP
+  FOOT.CPP
+  FUSE.CPP
+  GADGET.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FOOT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GADGET.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FLY.CPP)
+  GAMEDLG.CPP
+  GAUGE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file FUSE.CPP)
+  GETCPU.CPP
+  GLOBALS.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\getcpu.cpp(44): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GAMEDLG.CPP)
+  GOPTIONS.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GAUGE.CPP)
+  GSCREEN.CPP
+  HDATA.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GLOBALS.CPP)
+  HEAP.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GOPTIONS.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file HDATA.CPP)
+  HELP.CPP
+  HOUSE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file HEAP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file GSCREEN.CPP)
+  IDATA.CPP
+  INFANTRY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file HOUSE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file HELP.CPP)
+  INI.CPP
+  INIBIN.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INFANTRY.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IDATA.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\ini.cpp(64): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+  INICODE.CPP
+  INIT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INIBIN.CPP)
+  INT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INICODE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INIT.CPP)
+  INTERNET.CPP
+  INTERPAL.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file INT.CPP)
+  INTRO.CPP
+  IOMAP.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INTERNET.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IOMAP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INTERPAL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file INTRO.CPP)
+  IOOBJ.CPP
+  IPX.CPP
+  IPX95.CPP
+  IPXADDR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPX.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPX95.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPXADDR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IOOBJ.CPP)
+  IPXCONN.CPP
+  IPXGCONN.CPP
+  IPXMGR.CPP
+  JSHELL.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPXCONN.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPXMGR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file IPXGCONN.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file JSHELL.CPP)
+  KEY.CPP
+  LAYER.CPP
+  LCWPIPE.CPP
+  LCWSTRAW.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file LAYER.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file KEY.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file LCWPIPE.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file LCWSTRAW.CPP)
+  LINK.CPP
+  LIST.CPP
+  LOADDLG.CPP
+  LOGIC.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file LIST.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file LOGIC.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file LINK.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file LOADDLG.CPP)
+  LZO1X_C.CPP
+  LZO1X_D.CPP
+  LZOPIPE.CPP
+  LZOSTRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file LZOPIPE.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file LZOSTRAW.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\lzo1x_c.cpp(46): fatal error C1083: Cannot open include file: 'assert.h': No such file or directory
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\lzo1x_d.cpp(46): fatal error C1083: Cannot open include file: 'assert.h': No such file or directory
+  LZW.CPP
+  LZWPIPE.CPP
+  LZWSTRAW.CPP
+  MAP.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file LZWSTRAW.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file LZWPIPE.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\lzw.cpp(36): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAP.CPP)
+  MAPEDDLG.CPP
+  MAPEDIT.CPP
+  MAPEDPLC.CPP
+  MAPEDSEL.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPEDDLG.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPEDSEL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPEDIT.CPP)
+  MAPEDTM.CPP
+  MAPSEL.CPP
+  MCI.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPEDPLC.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MCI.CPP)
+  MCIMOVIE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPSEL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MAPEDTM.CPP)
+  MENUS.CPP
+  MiscAsm.cpp
+  MISSION.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MCIMOVIE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MENUS.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MiscAsm.cpp)
+  MIXFILE.CPP
+  MONOC.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MISSION.CPP)
+  MOUSE.CPP
+  MP.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MIXFILE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MOUSE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MONOC.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\mp.cpp(84): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+  MPGSET.CPP
+  MPLAYER.CPP
+  MSGBOX.CPP
+  MSGLIST.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MPGSET.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MPLAYER.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MSGLIST.CPP)
+  NETDLG.CPP
+  NULLCONN.CPP
+  NULLDLG.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file MSGBOX.CPP)
+  OBJECT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file NULLDLG.CPP)
+  ODATA.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file NETDLG.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file NULLCONN.CPP)
+  OPTIONS.CPP
+  OVERLAY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file OBJECT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file ODATA.CPP)
+  PALETTEC.CPP
+  PIPE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file OPTIONS.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file OVERLAY.CPP)
+  PK.CPP
+  PKPIPE.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file PIPE.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file PKPIPE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file PALETTEC.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\int.h(39): fatal error C1083: Cannot open include file: 'memory.h': No such file or directory (compiling source file PK.CPP)
+  PKSTRAW.CPP
+  POWER.CPP
+  PROFILE.CPP
+  QUEUE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file QUEUE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file POWER.CPP)
+  RADAR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file PROFILE.CPP)
+  RADIO.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\int.h(39): fatal error C1083: Cannot open include file: 'memory.h': No such file or directory (compiling source file PKSTRAW.CPP)
+  RAMFILE.CPP
+  RAND.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file RAND.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file RADIO.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file RADAR.CPP)
+  RAWFILE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file RAMFILE.CPP)
+  READLINE.CPP
+  RECT.CPP
+  REINF.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\rawfile.cpp(53): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+  RNDSTRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\rect.h(52): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file RECT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file READLINE.CPP)
+  RULES.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file REINF.CPP)
+  SAVELOAD.CPP
+  SCENARIO.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\rndstraw.cpp(46): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file RULES.CPP)
+  SCORE.CPP
+  SCROLL.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SAVELOAD.CPP)
+  SDATA.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SCENARIO.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SCORE.CPP)
+  SESSION.CPP
+  SHA.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SCROLL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SDATA.CPP)
+  SHAPEBTN.CPP
+  SHAPIPE.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\sha.cpp(39): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SESSION.CPP)
+  SHASTRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\pipe.h(39): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory (compiling source file SHAPIPE.CPP)
+  SIDEBAR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SHAPEBTN.CPP)
+  SIDEBARGlyphx.CPP
+  SLIDER.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file SHASTRAW.CPP)
+  SMUDGE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SIDEBAR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SLIDER.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SIDEBARGlyphx.CPP)
+  SOUNDDLG.CPP
+  SPECIAL.CPP
+  SPRITE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SMUDGE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SOUNDDLG.CPP)
+  STARTUP.CPP
+  STATBTN.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SPRITE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SPECIAL.CPP)
+  STATS.CPP
+  STRAW.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file STARTUP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file STATBTN.CPP)
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\straw.h(38): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file STRAW.CPP)
+  STUB.CPP
+  SUPER.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file STATS.CPP)
+  TAB.CPP
+  TACTION.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\stub.cpp(16): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file SUPER.CPP)
+  TARGET.CPP
+  TCPIP.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TACTION.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TAB.CPP)
+  TDATA.CPP
+  TEAM.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TCPIP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TARGET.CPP)
+  TEAMTYPE.CPP
+  TECHNO.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TEAM.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TDATA.CPP)
+  TEMPLATE.CPP
+  TENMGR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TEAMTYPE.CPP)
+  TERRAIN.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TECHNO.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TEMPLATE.CPP)
+  TEVENT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TENMGR.CPP)
+  TEXTBTN.CPP
+  THEME.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TERRAIN.CPP)
+  TOGGLE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file THEME.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TEVENT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TEXTBTN.CPP)
+  TRACKER.CPP
+  TRIGGER.CPP
+  TRIGTYPE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TOGGLE.CPP)
+  TXTLABEL.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TRIGGER.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TRACKER.CPP)
+  UDATA.CPP
+  UDPADDR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TRIGTYPE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file TXTLABEL.CPP)
+  UNIT.CPP
+  UTRACKER.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file UDPADDR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file UDATA.CPP)
+  VDATA.CPP
+  VECTOR.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file UNIT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file UTRACKER.CPP)
+  VESSEL.CPP
+  VISUDLG.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file VECTOR.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file VDATA.CPP)
+  VORTEX.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file VESSEL.CPP)
+  W95TRACE.CPP
+  WARHEAD.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file VISUDLG.CPP)
+  WEAPON.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file VORTEX.CPP)
+  ALLOC.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WARHEAD.CPP)
+  BUFFER.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WEAPON.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file W95TRACE.CPP)
+  BUFFGLBL.CPP
+  DDRAW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\win32lib\alloc.cpp(40): fatal error C1083: Cannot open include file: 'malloc.h': No such file or directory
+  DELAY.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\BUFFER.CPP)
+  DIPTHONG.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\BUFFGLBL.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\DDRAW.CPP)
+  DrawMisc.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\DELAY.CPP)
+  DRAWRECT.CPP
+  FONT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\DIPTHONG.CPP)
+  GBUFFER.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\DrawMisc.cpp)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\DRAWRECT.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\FONT.CPP)
+  GETSHAPE.CPP
+  ICONSET.CPP
+  IFF.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\GBUFFER.CPP)
+  IRANDOM.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\win32lib\iconset.cpp(42): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+  LOAD.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\GETSHAPE.CPP)
+  LOADFONT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\IFF.CPP)
+  MOUSEWW.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\win32lib\irandom.cpp(32): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+  PALETTE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\LOAD.CPP)
+  SET_FONT.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\LOADFONT.CPP)
+  TIMER.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\MOUSEWW.CPP)
+  TIMERDWN.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\PALETTE.CPP)
+  TIMERINI.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\SET_FONT.CPP)
+  WINDOWS.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\TIMER.CPP)
+  WINHIDE.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\TIMERDWN.CPP)
+  WRITEPCX.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\win32lib\windows.cpp(45): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\TIMERINI.CPP)
+  WINSTUB.CPP
+  WOLSTRNG.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\WINHIDE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file Win32Lib\WRITEPCX.CPP)
+  WOL_GSUP.CPP
+  WSPIPX.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WINSTUB.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WOLSTRNG.CPP)
+  WSPROTO.CPP
+  WSPUDP.CPP
+c:\program files (x86)\steam\steamapps\common\cncremastered\sourcecode\redalert\wol_gsup.cpp(3471): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WSPIPX.CPP)
+  XPIPE.CPP
+  XSTRAW.CPP
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WSPROTO.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file WSPUDP.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file XPIPE.CPP)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory (compiling source file XSTRAW.CPP)
